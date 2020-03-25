@@ -114,7 +114,7 @@ class LandingPage extends React.Component {
 							color="primary"
 							variant="contained"
 							component={GoogleLogin}
-							clientId="96851996756-7lfcdrojvu63k0jcjsqma61jggd72uli.apps.googleusercontent.com"
+							clientId="994191094832-lfu0fv7euqtmt4i2m8toc7gnuajq53pr.apps.googleusercontent.com"
 							cookiePolicy="single_host_origin"
 							scope="profile email"
 							onSuccess={(response) => {
